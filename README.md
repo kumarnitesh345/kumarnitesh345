@@ -106,7 +106,7 @@
 - Integrated **Jenkins, Docker, GitHub and reporting tools** for CI/CD execution.
 - Reduced regression testing effort by **85%** and manual testing effort by **80%**.
 
-👉 **[View Repository](YOUR_GURU99_REPOSITORY_URL)**
+👉 **[View Repository](https://github.com/kumarnitesh345/Guru99Bank-Automation-Testing-Framework)**
 
 ---
 
@@ -118,29 +118,33 @@
 - Used **CRUD operations, JDBC and PreparedStatement** for database interaction.
 - Structured the application into **5+ service/database classes** for maintainability.
 
-👉 **[View Repository](YOUR_HOSPITAL_PROJECT_URL)**
+👉 **[View Repository](https://github.com/kumarnitesh345/Hospital-Managemnet-System)**
 
 ---
 
-### 🚗 Autonomous Driving System
-**Python | TensorFlow | OpenCV | Machine Learning**
+### 🧪 Tutorials Ninja Automation System
+**Java | Selenium WebDriver | TestNG | Page Object Model | Maven | CucumberBDD**
 
-- Developed traffic-sign recognition using a CNN-based approach.
-- Worked with **10,000+ images** and achieved **98% recognition accuracy**.
-- Optimized object detection for improved inference speed and real-time performance.
+- Developed a **Selenium-based automation framework** for testing the Tutorials Ninja e-commerce web application.
+- Implemented the **Page Object Model (POM)** to create reusable and maintainable page classes and test components.
+- Automated key user workflows including **login, registration, product search, shopping cart, checkout, and order-related scenarios**.
+- Integrated **TestNG and Maven** for structured test execution, test management, and build automation.
+- Implemented reusable utilities, validations, and test data handling to improve **test coverage and maintainability**.
 
-👉 **[View Repository](YOUR_AUTONOMOUS_DRIVING_REPOSITORY_URL)**
+👉 **[View Repository](https://github.com/kumarnitesh345/Tutorials_Ninja_Automation)**
 
 ---
 
-### 🌐 Full-Stack Web Development Projects
-**JavaScript | Node.js | Express.js | MongoDB**
+### 🧠 MRI Insights — Brain Tumor Detection Web Application
+**Python | TensorFlow | Keras | VGG16 | CNN | Flask | OpenCV**
 
-- Developed **10+ projects** during the AICTE Next Gen Employability Program.
-- Worked across frontend, backend, API handling and database integration.
-- Focused on efficient server-side processing and responsive application behavior.
+- Developed a **deep learning-based web application** for detecting brain tumors from MRI images.
+- Implemented a **VGG16-based CNN model** to classify MRI images as tumor or non-tumor with confidence scores.
+- Built a Flask-based web interface supporting **drag-and-drop image upload, image preview, and real-time prediction results**.
+- Applied image preprocessing techniques including **224×224 resizing, grayscale conversion, Gaussian blur, brain-region extraction, and normalization**.
+- Integrated model evaluation workflows with **confusion matrices and training-history analysis** to assess model performance.
 
-👉 **[View Repositories](YOUR_PROJECTS_URL)**
+👉 **[View Repository](https://github.com/kumarnitesh345/mri-insights)**
 
 ---
 
