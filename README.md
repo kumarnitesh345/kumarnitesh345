@@ -6,10 +6,10 @@
   <a href="mailto:nk1711336@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/nitesh-kumar-d/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/kumarnitesh345">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -194,8 +194,8 @@ St. Pauls School, G.T. Road, Sasaram, Rohtas, Bihar | 2018 – 2019
 I'm interested in opportunities related to **SDET, QA Automation, Software Testing and Software Development**.
 
 📧 **Email:** [nk1711336@gmail.com](mailto:nk1711336@gmail.com)  
-💼 **LinkedIn:** [Add your LinkedIn profile](YOUR_LINKEDIN_URL)  
-🐙 **GitHub:** [Add your GitHub profile](YOUR_GITHUB_URL)
+💼 **LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/nitesh-kumar-d/)  
+🐙 **GitHub:** [kumarnitesh345](https://github.com/kumarnitesh345)
 
 ---
 
